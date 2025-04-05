@@ -41,18 +41,22 @@ This project is a Django-based web application that provides a RESTful API for m
    ```
 
 2. Create and activate virtual environment
-    ```python -m venv venv
+    ```
+    python -m venv venv
     venv\Scripts\activate  # On Windows
     ```
 3. Install dependencies
-    ```python -m pip install -r requirements.txt
+    ```
+    python -m pip install -r requirements.txt
     ```
 
 4. Apply migrations 
-    ```python manage.py makemigrations
+    ```
+    python manage.py makemigrations
     python manage.py migrate
     ```
 
 5. Run the development server
-    ```python manage.py runserver
+    ```
+    python manage.py runserver
     ```
