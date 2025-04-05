@@ -1,0 +1,9 @@
+<h1>Albums</h1>
+<ul>
+  <li *ngFor="let album of albums">
+    <span (click)="viewDetails(album.id)" style="cursor: pointer; text-decoration: underline;">
+      {{ album.title }}
+    </span>
+    <button (click)="deleteAlbum(album.id)">Delete</button>
+  </li>
+</ul>

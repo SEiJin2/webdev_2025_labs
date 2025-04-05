@@ -5,6 +5,8 @@ lab_8-9/shopback/migrations/
 lab_8-9/api/__pycache__/
 lab_8-9/api/migrations/
 
+lab_6/angular-album-project/.git/
+lab_6/angular-album-project/.gitignore
 lab_6/angular-album-project/.angular
 lab_6/angular-album-project/.browserslistrc
 lab_6/angular-album-project/.editorconfig
