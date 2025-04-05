@@ -5,4 +5,48 @@ lab_8-9/shopback/migrations/
 lab_8-9/api/__pycache__/
 lab_8-9/api/migrations/
 
-lab_6/
+lab_6/angular-album-project/.angular
+lab_6/angular-album-project/.browserslistrc
+lab_6/angular-album-project/.editorconfig
+lab_6/angular-album-project/src/assets/.gitkeep
+
+# Compiled output
+lab_6/angular-album-project/dist
+lab_6/angular-album-project/tmp
+lab_6/angular-album-project/out-tsc
+lab_6/angular-album-project/bazel-out
+
+# Node
+lab_6/angular-album-project/node_modules
+lab_6/angular-album-project/npm-debug.log
+lab_6/angular-album-project/yarn-error.log
+
+# IDEs and editors
+lab_6/angular-album-project/.idea/
+lab_6/angular-album-project/.project
+lab_6/angular-album-project/.classpath
+lab_6/angular-album-project/.c9/
+lab_6/angular-album-project/*.launch
+lab_6/angular-album-project/.settings/
+lab_6/angular-album-project/*.sublime-workspace
+
+# Visual Studio Code
+lab_6/angular-album-project/.vscode/*
+lab_6/angular-album-project/!.vscode/settings.json
+lab_6/angular-album-project/!.vscode/tasks.json
+lab_6/angular-album-project/!.vscode/launch.json
+lab_6/angular-album-project/!.vscode/extensions.json
+lab_6/angular-album-project/.history/*
+
+# Miscellaneous
+lab_6/angular-album-project/.angular/cache
+lab_6/angular-album-project/.sass-cache/
+lab_6/angular-album-project/connect.lock
+lab_6/angular-album-project/coverage
+lab_6/angular-album-project/libpeerconnection.log
+lab_6/angular-album-project/testem.log
+lab_6/angular-album-project/typings
+
+# System files
+lab_6/angular-album-project/.DS_Store
+lab_6/angular-album-project/Thumbs.db
